@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+outputs/
+*.wav
+*.mp3
+*.png
+.ipynb_checkpoints/
