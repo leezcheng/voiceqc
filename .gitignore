@@ -4,5 +4,4 @@ __pycache__/
 outputs/
 *.wav
 *.mp3
-*.png
 .ipynb_checkpoints/
